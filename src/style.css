@@ -1,44 +1,13 @@
-.fieldset {
+.form-fied {
   margin: 20px 0;
 }
 
-.fieldset2 {
-  margin: 20px 0;
-}
-
-.fieldset3 {
-  margin: 20px 0;
-}
-
-.div {
+.forml_center {
+  display: block;
   margin: 10px 0;
 }
 
-.div1 {
-  margin: 0 0 10px;
-}
-
-.div4 {
+.form_bot {
   display: block;
   margin: 0 0 10px;
-}
-
-.div5 {
-  display: block;
-}
-
-.div45 {
-  display: block;
-  margin: 10px 0 ;
-
-}
-
-.div46 {
-
-  margin: 0 0 10px;
-}
-
-.div47 {
-  margin: 10px 0 ;
-
 }
