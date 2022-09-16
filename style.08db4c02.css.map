@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACE,aACF,CAEA,cACE,aAAc,CACd,aACF,CAEA,UACE,aAAc,CACd,kBACF","file":"style.08db4c02.css","sourceRoot":"..\\src","sourcesContent":[".form-fied {\n  margin: 20px 0;\n}\n\n.forml_center {\n  display: block;\n  margin: 10px 0;\n}\n\n.form_bot {\n  display: block;\n  margin-bottom: 10px;\n}\n"]}
